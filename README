@@ -1,2 +1,17 @@
 Â²³æªºgit pushÿ
 Â²³æªºgit pullÿ
+
+# ¥[¤J©Ò¦³¤wÅÜ§óªºÀÉ®×
+git add .
+# ¥[¤Wµù¸Ñ
+git commit -m 'µù¸Ñ¤º®e'
+# ¥á¸ê®Æ¤Wgithub
+git push
+
+¦pªG¥»¾÷ÀÉ®×­×§ï¹L©ÎÀÉ®×¿ò¥¢
+¥i¥H¥ı³z¹L
+git checkout
+½T»{­ş¨ÇÀÉ®×¦³ÅÜ§ó
+¦A¥Î
+git checkout filename
+¨ú¦^
