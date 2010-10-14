@@ -15,3 +15,14 @@ git checkout
 再用
 git checkout filename
 取回
+
+# 建立local branch
+git branch <分支名>
+# 切換到所需的分支
+git checkout <分支名>
+如果現有的分支有修改的話會無法切換
+
+# 將local branch push到github上
+git push origin <分支名>
+之後的push就都會push到分支上
+
